@@ -329,7 +329,7 @@ Closing as True Positive — Simulated Attack.
 | 3 | Unauthorized user account created | 4720 | T1136 | High | ✅ Detected |
 | 4 | User added to Administrators group | 4732 | T1078 | High | ✅ Detected |
 
-![MITRE ATT&CK heatmap](images/MITRE ATT&CK heatmap.jpg)
+![MITRE ATT&CK heatmap](images/mitre-attck-heatmap.jpg)
 
 **Windows Event ID Reference:**
 
